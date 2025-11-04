@@ -1,3 +1,6 @@
-[submodule "3.Implementacao"]
-	path = 3.Implementacao
-	url = https://github.com/LindmanBassi/EvT---Implementacao.git
+[submodule "3.Implementacao/EvT - FrontEnd"]
+	path = 3.Implementacao/EvT - FrontEnd
+	url = https://github.com/LindmanBassi/EvT-FrontEnd
+[submodule "3.Implementacao/EvT - BackEnd"]
+	path = 3.Implementacao/EvT - BackEnd
+	url = https://github.com/LindmanBassi/EvT-BackEnd
