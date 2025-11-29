@@ -221,7 +221,4 @@ npm run build
 * Equipe responsável: Maria Clara e Vitória
 * Suporte via logs do Elastic Beanstalk e monitoramento AWS
 
-```
-
-
 
