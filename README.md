@@ -107,7 +107,8 @@ README.md
 
 ## Arquitetura do Sistema
 
-![Diagrama de Arquitetura](caminho/para/imagem.png)  
+<img width="706" height="488" alt="evt-arquitetura" src="https://github.com/user-attachments/assets/46503f44-1c7f-4094-ae05-9928f03be451" />
+
 *Figura 1 – Arquitetura da infraestrutura na AWS.*
 
 Componentes principais:
