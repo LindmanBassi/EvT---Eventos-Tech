@@ -208,8 +208,8 @@ npm run build
 
 | Atividade                    | Data          | Responsáveis          |
 | ---------------------------- | ------------- | --------------------- |
-| Criação da VPC               | 04/11/2025    | Maria Clara e Vitória Machado Estevão  |
-| Criação do Aurora and RDS    | 04/11/2025    | Maria Clara |
+| Criação da VPC               | 04/11/2025    | Maria Clara Bonfatti Farias e Vitória Machado Estevão  |
+| Criação do Aurora and RDS    | 04/11/2025    | Maria Clara Bonfatti Farias |
 | Teste do banco               | 06/11/2025    | Vitória Machado Estevão  |
 | Elastic Beanstalk (back-end) | 06–11/11/2025 | Henrique Lindman Bassi |
 | S3 (front-end)               | 11–24/11/2025 | Thiago Henrique Mesquita de Sousa |
@@ -219,7 +219,7 @@ npm run build
 
 ## Contato e Suporte
 
-* Equipe responsável:  Erin Gomes da Silva, Henrique Lindman Bassi, Maria Clara, Thiago Henrique Mesquita de Sousa, Vitória Machado Estevão 
+* Equipe responsável:  Erin Gomes da Silva, Henrique Lindman Bassi, Maria Clara Bonfatti Farias, Thiago Henrique Mesquita de Sousa, Vitória Machado Estevão 
 * Suporte via logs do Elastic Beanstalk e monitoramento AWS
 
 
